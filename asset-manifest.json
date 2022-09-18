@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/EkChills.github.io/my-ecommerce/static/css/main.1ff41244.css",
+    "main.js": "/EkChills.github.io/my-ecommerce/static/js/main.98951804.js",
+    "index.html": "/EkChills.github.io/my-ecommerce/index.html",
+    "main.1ff41244.css.map": "/EkChills.github.io/my-ecommerce/static/css/main.1ff41244.css.map",
+    "main.98951804.js.map": "/EkChills.github.io/my-ecommerce/static/js/main.98951804.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ff41244.css",
+    "static/js/main.98951804.js"
+  ]
+}
